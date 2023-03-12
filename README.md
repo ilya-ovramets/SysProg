@@ -1,4 +1,3 @@
 # SysProg
-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
-git@github.com:litl-program/Sys.git
+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
 
