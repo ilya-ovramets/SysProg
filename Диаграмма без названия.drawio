@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T20:07:36.915Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.5" etag="tn7RGZ47UsV1IspFNUgn" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T20:10:50.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Tv23zGzgGAXZJRgeL6bR" version="24.2.5" type="github">
   <diagram name="Страница — 1" id="bQx8iMFGfUbK_cffJSMU">
-    <mxGraphModel>
+    <mxGraphModel dx="1674" dy="1172" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yUrQbSLCL5NHR8WoDsNA-3" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="yUrQbSLCL5NHR8WoDsNA-1" target="yUrQbSLCL5NHR8WoDsNA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yUrQbSLCL5NHR8WoDsNA-1" value="Генеруємо матрицю" style="rounded=1;whiteSpace=wrap;html=1;arcSize=33;" vertex="1" parent="1">
+          <mxGeometry x="174" y="-166" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yUrQbSLCL5NHR8WoDsNA-2" value="число &amp;lt; 0" style="whiteSpace=wrap;html=1;rounded=1;arcSize=33;" vertex="1" parent="1">
+          <mxGeometry x="171" y="-33" width="126" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
